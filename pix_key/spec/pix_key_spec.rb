@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "pix_key"
+
 require 'spec_helper'
 
 RSpec.describe PixKey do
